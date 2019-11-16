@@ -1,2 +1,2 @@
 # retrofit_greendao_example
-IDK what I'm doing with my life
+Project with GreenDAO and Retrofit 
